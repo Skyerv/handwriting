@@ -1,5 +1,5 @@
-# Handwriting with Pyhton
-Pyhton Program that lets you write in your handwriting!
+# Handwriting with Python
+Python Program that lets you write in your handwriting!
 Inspired by: thaisribeiro.in
 
 # How to run?
