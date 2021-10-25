@@ -1,5 +1,6 @@
 # Handwriting with Pyhton
 Pyhton Program that lets you write in your handwriting!
+Inspired by: thaisribeiro.in
 
 # How to run?
 1. Install Unidecode and Pillow libraries 
