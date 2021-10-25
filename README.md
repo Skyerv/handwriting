@@ -3,9 +3,9 @@ Pyhton Program that lets you write in your handwriting!
 Inspired by: thaisribeiro.in
 
 # How to run?
-1. Install Unidecode and Pillow libraries 
-pip install unidecode
-pip install pillow
+1. Install Unidecode and Pillow libraries\ 
+pip install unidecode\
+pip install pillow\
 
 2. Unzip "hand_fonts" into a folder with same name
 3. Run the program!
